@@ -50,17 +50,18 @@ async function selectAction() {
     switch (answer.action) {
         case 'View Employees/Departments/Roles':
             await viewBySelection(connection);
-            return selectAction()
+            break
         case 'Add Employees/Departments/Roles':
             await addBySelection(connection);
-            return selectAction()
+            break
         case 'Update Employees/Departments/Roles':
             await updateBySelection(connection);
-            return selectAction()
+            break
         case 'Delete Employees/Departments/Roles':
             await deleteBySelection(connection);
-            return selectAction()
+            break
         default:
             return process.exit()
     }
+    return selectAction()
 }

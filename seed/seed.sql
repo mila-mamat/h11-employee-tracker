@@ -90,7 +90,7 @@ VALUES("Max","Campbell", 6, 1 );
 INSERT INTO employees(first_name, last_name,role_id,manager_id)
 VALUES("Deirdre","Gill", 7, 2 );
 INSERT INTO employees(first_name, last_name,role_id,manager_id)
-VALUES("Adam","North", 8, 2 );
+VALUES("Adam","George", 8, 2 );
 INSERT INTO employees(first_name, last_name,role_id,manager_id)
 VALUES("Boris",	"Alsop", 9, 2 );
 INSERT INTO employees(first_name, last_name,role_id,manager_id)
@@ -104,4 +104,6 @@ INSERT INTO employees(first_name, last_name,role_id,manager_id)
 VALUES("Rachel","McGrath", 11, 3 );
 INSERT INTO employees(first_name, last_name,role_id,manager_id)
 VALUES("Mary",	"Lyman", 12, 3 );
+INSERT INTO employees(first_name, last_name,role_id,manager_id)
+VALUES("Adam","George", 12, 3 );
 
