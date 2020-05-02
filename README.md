@@ -6,7 +6,7 @@
 
 <img src="https://avatars2.githubusercontent.com/u/59339564?v=4"  alt="profile picture" width="150" height="150">
 
-<h2 align="center">By Mila Mamat</h2>
+<h2 align="center">Employee Manager</h2>
 
 <h3 align="center">
  Node, inquirer, MySQL
