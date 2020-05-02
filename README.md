@@ -65,7 +65,7 @@ The application runs in terminal.
 
 ### others
 
-The application has taken user input formatting, validating, and providing default value as a reference into considerations. 
+The application has taken user input formatting, validating, confirming identical employee names,and providing default value as a reference into considerations. 
 
 
 ## Installation
