@@ -1,9 +1,11 @@
 {
-  "name": "employee-tracker",
+  "name": "Employee-Tracker",
   "version": "1.0.0",
-  "description": "interfaces that make it easy for non-developers to view and interact with information stored in databases,using node, inquirer, and MySQL.",
+  "description": "Interfaces that make it easy to view and interact with information stored in databases,using node, inquirer, and MySQL.",
   "main": "app.js",
   "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
     "inquirer": "^7.1.0",
     "mysql2": "^2.1.0"
   },

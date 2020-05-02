@@ -4,8 +4,8 @@ const viewBySelection = require('./lib/viewBySelection')
 const addBySelection = require('./lib/addBySelection')
 const updateBySelection = require('./lib/updateBySelection')
 const deleteBySelection = require('./lib/deleteBySelection')
-
-const listing = require('./lib/listing') //delet later
+const logo = require('asciiart-logo');
+const config = require('./package.json');
 
 let connection
 
@@ -17,7 +17,8 @@ async function main() {
         console.log("connecting database... ")
         await connect()
         //greetings
-        console.log("\n Welcome to employee tracker \n")
+        console.log(logo(config).render());
+        console.log("\n      Welcome to employee tracker \n")
 
         // start the employee tracker 
         await selectAction()
