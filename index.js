@@ -3,6 +3,9 @@ const mysql = require('mysql2/promise')
 const viewBySelection = require('./lib/viewBySelection')
 const addBySelection = require('./lib/addBySelection')
 const updateBySelection = require('./lib/updateBySelection')
+const deleteBySelection = require('./lib/deleteBySelection')
+
+const listing = require('./lib/listing') //delet later
 
 let connection
 
