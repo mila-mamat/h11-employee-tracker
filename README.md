@@ -6,11 +6,12 @@
 
 <img src="https://avatars2.githubusercontent.com/u/59339564?v=4"  alt="profile picture" width="150" height="150">
 
-<h2 align="center">Employee tracker</h2>
+<h2 align="center">By Mila Mamat</h2>
 
-<p align="center">
-By Mila Mamat
-</p>
+<h3 align="center">
+ Node, inquirer, MySQL
+
+</h3>
 <br />
 </p>
 
