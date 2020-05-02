@@ -9,7 +9,7 @@
 <h2 align="center">Employee Manager</h2>
 
 <h3 align="center">
- Node, inquirer, MySQL
+ Node, Inquirer, MySQL
 
 </h3>
 <br />
