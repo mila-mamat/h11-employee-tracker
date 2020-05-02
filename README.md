@@ -47,10 +47,7 @@ All employee, department and role infos are stored in Mysql Database. Here is th
 ## Usage
  
 
-The application runs in terminal
-
-<img src="https://github.com/mila-mamat/homework11-employee-tracker/blob/master/gif/server.gif" alt="Sample run" width="600" height="400">
-
+The application runs in terminal.
 
 ### View Employee/ Departments/ Roles
 <img src="https://github.com/mila-mamat/homework11-employee-tracker/blob/master/gif/view.gif" alt="Sample run" width="600" height="400">
