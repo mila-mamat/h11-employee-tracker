@@ -9,7 +9,7 @@
 <h2 align="center">Employee Manager</h2>
 
 <h3 align="center">
- Node, Inquirer, MySQL
+ Node, Inquirer, MySQL, Console.table, Asciiart-logo
 
 </h3>
 <br />
